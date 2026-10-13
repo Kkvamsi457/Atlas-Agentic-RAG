@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+chromadb
+sentence-transformers
+ollama
+pydantic
+python-dotenv
+numpy
+mcp>=1.28,<2
+pymongo>=4.8,<5
